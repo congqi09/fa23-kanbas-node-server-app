@@ -1,0 +1,1 @@
+[ES6 New Features](http://es6-features.org/#Constants)
